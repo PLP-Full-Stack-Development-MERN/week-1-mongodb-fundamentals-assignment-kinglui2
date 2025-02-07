@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "67a5ebeefcecd054b74d7948"
+  },
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "publishedYear": 1960,
+  "genre": "Fiction",
+  "ISBN": "9780061120084",
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "67a5ebeefcecd054b74d794b"
+  },
+  "title": "Harry Potter and the Sorcerer’s Stone",
+  "author": "J.K. Rowling",
+  "publishedYear": 1997,
+  "genre": "Fantasy",
+  "ISBN": "9780439708180",
+  "rating": 5
+}]

@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "67a5eb1afcecd054b74d7942"
+  },
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "publishedYear": 1925,
+  "genre": "Classic",
+  "ISBN": "9780743273565"
+},
+{
+  "_id": {
+    "$oid": "67a5eb1afcecd054b74d7943"
+  },
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "publishedYear": 1960,
+  "genre": "Fiction",
+  "ISBN": "9780061120084"
+},
+{
+  "_id": {
+    "$oid": "67a5eb1afcecd054b74d7944"
+  },
+  "title": "1984",
+  "author": "George Orwell",
+  "publishedYear": 1949,
+  "genre": "Dystopian",
+  "ISBN": "9780451524935"
+},
+{
+  "_id": {
+    "$oid": "67a5eb1afcecd054b74d7945"
+  },
+  "title": "The Catcher in the Rye",
+  "author": "J.D. Salinger",
+  "publishedYear": 1951,
+  "genre": "Classic",
+  "ISBN": "9780316769488"
+},
+{
+  "_id": {
+    "$oid": "67a5eb1afcecd054b74d7946"
+  },
+  "title": "Harry Potter and the Sorcerer’s Stone",
+  "author": "J.K. Rowling",
+  "publishedYear": 1997,
+  "genre": "Fantasy",
+  "ISBN": "9780439708180"
+}]

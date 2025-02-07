@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "67a5ed2bfcecd054b74d794e"
+  },
+  "orderId": 501,
+  "userId": 1,
+  "products": [
+    {
+      "productId": 101,
+      "quantity": 2
+    }
+  ],
+  "totalAmount": 2000,
+  "orderDate": {
+    "$date": "2025-02-07T11:23:23.774Z"
+  }
+}]

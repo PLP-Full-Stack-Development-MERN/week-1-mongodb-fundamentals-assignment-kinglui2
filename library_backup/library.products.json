@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "67a5ed21fcecd054b74d794d"
+  },
+  "productId": 101,
+  "name": "Laptop",
+  "price": 1000,
+  "category": "Electronics",
+  "stock": 50
+}]
